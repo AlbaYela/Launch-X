@@ -1,2 +1,2 @@
 # Launch-X
-Repositorio de todas las misiones del curso Launch X
+Repositorio de las katas de la primera mision
